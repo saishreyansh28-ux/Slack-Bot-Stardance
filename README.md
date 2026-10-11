@@ -5,7 +5,7 @@ My slack bot which I've made on VS Code and have linked to the Slack Channel, It
 My slack bot has the bot pings:
 
 * You can use /sai-bot-ping, to get a latency update.
-* You can use /sai-bot-catfacts, to get a fact on a cat.
+* You can use /sai-bot-catfact, to get a fact on a cat.
 * You can use /sai-bot-joke, to hear a joke.
 
 It is running 24/7 through the help of Hackclub's Nest!
@@ -17,7 +17,7 @@ Ouputs(these are just examples, you will get a different output each time!) for 
 i)/sai-bot-ping: Pong!
                   Latency: 0ms
                   
-ii)/sai-bot-catfacts: Cat Fact:
+ii)/sai-bot-catfact: Cat Fact:
                        A cat will tremble or shiver when it is in extreme pain
 
 iii)/sai-bot-joke: What are the strongest days of the week:
